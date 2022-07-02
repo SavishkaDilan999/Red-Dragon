@@ -23,11 +23,11 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is SAVISHKA DILAN😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94 76 890 6156'] //Owner number in aive msg
-global.premium = ['+94 76 890 6156'] //Owner Number info
-global.ownernomer = '++94 76 890 6156' //Owner Number <<<
+global.owner = ['+94768906156'] //Owner number in aive msg
+global.premium = ['+94768906156'] //Owner Number info
+global.ownernomer = '+94768906156' //Owner Number <<<
 
-global.ownername = '😎🅢🅐🅥🅘🅢🅗🅚🅐 🅓🅘🅟🅐🅝' //Owner Name
+global.ownername = '😎SAVISHKA DILAN' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
@@ -43,7 +43,7 @@ global.sp = '♥️' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '...Dilan...' // DO NOT CHANGE!
+global.footer = '♥️...➣Dilan᭄...♥️' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
