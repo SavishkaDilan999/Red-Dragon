@@ -20,23 +20,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is SAVISHKA DILAN😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ➢RED DRAGON᭄🔥
+My Creator is ➢SAVISHKA么DILAN×͜×᭄` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94764707558'] //Owner number in aive msg
 global.premium = ['+94764707558'] //Owner Number info
 global.ownernomer = '+94764707558' //Owner Number <<<
 
-global.ownername = '😎SAVISHKA DILAN' //Owner Name
+global.ownername = '♥️᭄SAVISHKA么DILAN×͜×᭄' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥Hiii😏' //Change Your Button's URL
+global.btnurl = '➢ https://wa.me/+94764707558 ♥️' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬Savishka༒Dilan࿐' //Bot Pacage Name
-global.author = '😎Dilan❯❯' //Author Name
+global.author = '么Dilan×͜×᭄' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '♥️' //A Charactor In Menu!
